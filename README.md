@@ -1,4 +1,5 @@
 # Scraping Web Sites with Numpy and Cv2
+### A ideia inicial do projeto é buscar nos sites de jornais todos os links de notícias sobre o tema "X", e depois coletar em cada link dessas notícias suas imagens sobre o tema escolhido.
 #### Site 1
 ![globo](https://user-images.githubusercontent.com/31735230/78743477-1aea1f00-7935-11ea-832e-83371138a50d.jpg)
 #### Site 2

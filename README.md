@@ -1,4 +1,10 @@
-# Scraping Web sites with Numpy and Cv2
+# Scraping Web Sites with Numpy and Cv2
+#### Site 1
+![globo](https://user-images.githubusercontent.com/31735230/78743477-1aea1f00-7935-11ea-832e-83371138a50d.jpg)
+#### Site 2
+![uol](https://user-images.githubusercontent.com/31735230/78743517-3523fd00-7935-11ea-8019-0b98cacc2059.jpg)
+
+
 
 ## Pré-requisitos
 - 1 - Ambiente Windows, Linux ou Mac(Python(Core) ou Anaconda)
